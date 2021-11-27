@@ -21,3 +21,5 @@
 - kakaoMapCrawling.py에 존재하는 chromedriver_path변수에 해당 크롬드라이버 파일 위치를 표시해야합니다.
 
 - 만일 코드가 동작하지 않는다면, 카카오맵 내부 html요소가 변경되었을 가능성이 있으므로, 해당 검색 페이지에 F12버튼을 눌러 개발자도구를 켜 해당 html요소를 확인하여 변경사항을 체크합니다.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongyunjae%2FKakaoMapCrawling%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
